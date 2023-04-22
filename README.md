@@ -1,3 +1,3 @@
 #Demo
 
-Git Course Tutorial 1
+Git Course Tutorial 1:
